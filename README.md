@@ -1,2 +1,2 @@
-# Flexlab
-Code for implementing closed loop control on the Flexlab system
+# FlexLab
+Code for implementing closed loop control on the FlexLab system
