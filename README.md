@@ -1,5 +1,5 @@
 # FlexLab
-Code for implementing closed loop control on the FlexLab system
+Code for implementing closed loop control on the [FlexLab system](https://www.mbrijbhushan.com/#h.xqrip0nirb65)
 
 **FPGA:** Low level ADC, Moving Average, Controller and DAC.
 
